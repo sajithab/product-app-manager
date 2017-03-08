@@ -16,7 +16,7 @@ table#main-table td#menu-panel {
 /* ---------------- header styles ------------------ */
 div#header-div {
     background-image: url( ../images/api-header-back.png);
-    height:80px;
+    height:70px;
 }
 
 div#header-div div.left-logo {
